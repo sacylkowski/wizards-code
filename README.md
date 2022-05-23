@@ -1,23 +1,14 @@
 # Advanced Dungeon and Dragons Character Generator
 
 ## Description
+    
+    A RESTful API application to generate, save, and update player character sheets for the roleplaying game AD&D.  We are building this project to ease the management of character storage and updating of statistics and to share our passion for role playing games. Characters can be auto generated or stats can be entered manually. Registered users will be able to access saved character sheets, edit, and delete them. This app will replace maintaining characters on paper
 
-- A RESTful API application to generate, save, and update player character sheets for the roleplaying game AD&D
+  ## Installation
+  To install required dependecies, run the following command:
+  npm install
 
-- We are building this project to ease the management of character storage and updating of statistics and to share our passion for role playing games
-
-- Characters can be auto generated or stats can be entered manually
-
-- Registered users will be able to access saved character sheets, edit, and delete them
-
-- This app will replace maintaining characters on paper
-
-## Operation
-- Users will access the app at a [heroku url](https://secure-temple-11568.herokuapp.com/)
-- Users will have to login to access stored characters
-- Users will have a great time imagining what adventures await their newly created characters
-
-## Collaboraters 
+  ## Collaboraters 
 
 # Team Wizards of The Code
 - Alexander Lu
@@ -26,12 +17,17 @@
 - Erik Rockenmeyer
 - Travis Swift
 
+  ## Usage
+  This app is simple to use.  You fill out the prompts appropriately and the directory is made.
+  <img src="Example-site.png" alt="image of program running" width="1206" />
 
-## Technologies Used
+ <a href="https://warm-cove-70741.herokuapp.com/">Click here to see the deployed site.</a>
+
+ ## Technologies Used
 -   * bcrypt
     * dotenv
     * express
-    *  express-handlebars
+    * express-handlebars
     * express-session
     * foundation-cli
     * Javascript
@@ -41,6 +37,9 @@
     * sequelize
     * tailwindcss
     
+
+  ## Questions
+  If you have any questions, please reach out on <a href="https://github.com/sacylkowski/">GitHub</a> or you can <a href="mailto:sacylkowski@gmail.com">E-mail me</a>.
     
 
  
