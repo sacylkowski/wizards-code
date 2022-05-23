@@ -2,7 +2,7 @@
 
 ## Description
     
-    A RESTful API application to generate, save, and update player character sheets for the roleplaying game AD&D.  We are building this project to ease the management of character storage and updating of statistics and to share our passion for role playing games. Characters can be auto generated or stats can be entered manually. Registered users will be able to access saved character sheets, edit, and delete them. This app will replace maintaining characters on paper
+    A RESTful API application to generate, save, and update player character sheets for the roleplaying game AD&D.  We are building this project to ease the management of character storage and updating of statistics and to share our passion for role playing games. Characters can be auto generated or stats can be entered manually. Registered users will be able to access saved character sheets, edit, and delete them. This app will replace maintaining characters on paper.
 
   ## Installation
   To install required dependecies, run the following command:
